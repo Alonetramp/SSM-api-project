@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mybatis-plus">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/mybatis-plus" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/mybatis-plus" recursive="false" />
+  </library>
+</component>
